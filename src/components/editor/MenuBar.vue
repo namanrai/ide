@@ -626,6 +626,6 @@
   }
   
    .vue-notification {
-    margin-top: 95px;
+    margin-top: 50px;
   }
 </style>
